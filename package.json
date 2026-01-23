@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/site-dever/travel-site#readme",
   "dependencies": {
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "normalize.css": "^8.0.1"
   }
 }
